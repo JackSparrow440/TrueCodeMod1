@@ -1,0 +1,14 @@
+C:\Temp\TrueCoders Training c#\ChristmasWithTypes-main\ChristmasWithTypes\obj\Debug\net6.0\ChristmasWithTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\TrueCoders Training c#\ChristmasWithTypes-main\ChristmasWithTypes\obj\Debug\net6.0\ChristmasWithTypes.AssemblyInfoInputs.cache
+C:\Temp\TrueCoders Training c#\ChristmasWithTypes-main\ChristmasWithTypes\obj\Debug\net6.0\ChristmasWithTypes.AssemblyInfo.cs
+C:\Temp\TrueCoders Training c#\ChristmasWithTypes-main\ChristmasWithTypes\obj\Debug\net6.0\ChristmasWithTypes.csproj.CoreCompileInputs.cache
+C:\Temp\TrueCoders Training c#\ChristmasWithTypes-main\ChristmasWithTypes\bin\Debug\net6.0\ChristmasWithTypes.exe
+C:\Temp\TrueCoders Training c#\ChristmasWithTypes-main\ChristmasWithTypes\bin\Debug\net6.0\ChristmasWithTypes.deps.json
+C:\Temp\TrueCoders Training c#\ChristmasWithTypes-main\ChristmasWithTypes\bin\Debug\net6.0\ChristmasWithTypes.runtimeconfig.json
+C:\Temp\TrueCoders Training c#\ChristmasWithTypes-main\ChristmasWithTypes\bin\Debug\net6.0\ChristmasWithTypes.dll
+C:\Temp\TrueCoders Training c#\ChristmasWithTypes-main\ChristmasWithTypes\bin\Debug\net6.0\ChristmasWithTypes.pdb
+C:\Temp\TrueCoders Training c#\ChristmasWithTypes-main\ChristmasWithTypes\obj\Debug\net6.0\ChristmasWithTypes.dll
+C:\Temp\TrueCoders Training c#\ChristmasWithTypes-main\ChristmasWithTypes\obj\Debug\net6.0\refint\ChristmasWithTypes.dll
+C:\Temp\TrueCoders Training c#\ChristmasWithTypes-main\ChristmasWithTypes\obj\Debug\net6.0\ChristmasWithTypes.pdb
+C:\Temp\TrueCoders Training c#\ChristmasWithTypes-main\ChristmasWithTypes\obj\Debug\net6.0\ChristmasWithTypes.genruntimeconfig.cache
+C:\Temp\TrueCoders Training c#\ChristmasWithTypes-main\ChristmasWithTypes\obj\Debug\net6.0\ref\ChristmasWithTypes.dll
